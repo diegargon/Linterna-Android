@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flashlight / Linterna</string>
+    <string name="AutoOn">Auto On</string>
+    <string name="SavedPrefs">Saved to preferences</string>
+    <string name="FlashOn">On</string>
+    <string name="FlashOff">Off</string>
+    <string name="NoPermiss">No permissions</string>
+    <string name="NoFlash">No flash feature</string>
+    <string-array name="flashTimer">
+        <item>Off</item>
+        <item>10s</item>
+        <item>20s</item>
+        <item>30s</item>
+        <item>1m</item>
+        <item>5m</item>
+    </string-array>
+</resources>
